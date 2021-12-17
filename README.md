@@ -20,8 +20,8 @@ arXiv:2007.07646 (2020).
 * Xuefei Yin, Yanming Zhu, and Jiankun Hu. 2021. A Comprehensive Survey of Privacy-preserving Federated Learning:
 A Taxonomy, Review, and Future Directions. ACM Computing Surveys (CSUR) 54, 6 (2021), 1–36.
 
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------| 
+## Generative models
+
 
 
 
