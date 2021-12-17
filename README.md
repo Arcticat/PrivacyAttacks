@@ -1,9 +1,9 @@
 # PrivacyAttacks
 
-###综述
-
+###Survey
 
 ### Membership Inference Attack Papers 2021
+https://github.com/stratosphereips/awesome-ml-privacy-attacks
 https://github.com/HongshengHu/membership-inference-machine-learning-literature/blob/main/README.md
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------| 
