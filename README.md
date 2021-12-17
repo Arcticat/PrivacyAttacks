@@ -1,9 +1,19 @@
 # PrivacyAttacks
 
-###Survey
+### Survey
+https://github.com/stratosphereips/awesome-ml-privacy-attacks
+
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------| 
+
+
+
+## Membership Inference
+
+#### Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov. 2017. Membership inference attacks against
+machine learning models. In 2017 IEEE Symposium on Security and Privacy (S&P). IEEE, 3–18.
 
 ### Membership Inference Attack Papers 2021
-https://github.com/stratosphereips/awesome-ml-privacy-attacks  |
 https://github.com/HongshengHu/membership-inference-machine-learning-literature/blob/main/README.md
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------| 
@@ -22,3 +32,19 @@ https://github.com/HongshengHu/membership-inference-machine-learning-literature/
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2019 | **LOGAN: Membership Inference Attacks Against Generative Models** | Black-box; White-box | Generative Models | PoPETs | [Link](https://arxiv.org/abs/1705.07663) | [Link](https://github.com/jhayes14/gen_mem_inf)|
 | 2019 | **Monte Carlo and Reconstruction Membership Inference Attacks against Generative Models.** | White-box; Black-box | Generative Models | PoPETs | [Link](https://petsymposium.org/2019/files/papers/issue4/popets-2019-0067.pdf) | [Link](https://github.com/SAP-samples/security-research-membership-inference-against-generative-networks) |
+
+## Model inversion
+
+#### Matt Fredrikson, Somesh Jha, and Thomas Ristenpart. 2015. Model inversion attacks that exploit confidence
+information and basic countermeasures. In Proceedings of the 22nd ACM SIGSAC Conference on Computer and
+Communications Security. ACM, 1322–1333.
+
+
+## Property Inference
+
+#### Karan Ganju, Qi Wang, Wei Yang, Carl A Gunter, and Nikita Borisov. 2018. Property inference attacks on fully
+connected neural networks using permutation invariant representations. In Proceedings of the 2018 ACM SIGSAC
+Conference on Computer and Communications Security. ACM, 619–633.
+
+
+
