@@ -1,6 +1,7 @@
 # PrivacyAttacks
 
 ### Membership Inference Attack Papers 2021
+https://github.com/HongshengHu/membership-inference-machine-learning-literature/blob/main/README.md
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------| 
 | 2021 | **Membership Inference Attacks against GANs by Leveraging Over-representation Regions** | White-box | Generative Models | CCS |[Link](https://dl.acm.org/doi/abs/10.1145/3460120.3485338) | |
