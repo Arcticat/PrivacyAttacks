@@ -10,7 +10,7 @@ https://github.com/stratosphereips/awesome-ml-privacy-attacks
 
 ## Membership Inference
 
-#### Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov. 2017. Membership inference attacks against
+* Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov. 2017. Membership inference attacks against
 machine learning models. In 2017 IEEE Symposium on Security and Privacy (S&P). IEEE, 3–18.
 
 ### Membership Inference Attack Papers 2021
@@ -35,14 +35,14 @@ https://github.com/HongshengHu/membership-inference-machine-learning-literature/
 
 ## Model inversion
 
-#### Matt Fredrikson, Somesh Jha, and Thomas Ristenpart. 2015. Model inversion attacks that exploit confidence
+* Matt Fredrikson, Somesh Jha, and Thomas Ristenpart. 2015. Model inversion attacks that exploit confidence
 information and basic countermeasures. In Proceedings of the 22nd ACM SIGSAC Conference on Computer and
 Communications Security. ACM, 1322–1333.
 
 
 ## Property Inference
 
-#### Karan Ganju, Qi Wang, Wei Yang, Carl A Gunter, and Nikita Borisov. 2018. Property inference attacks on fully
+* Karan Ganju, Qi Wang, Wei Yang, Carl A Gunter, and Nikita Borisov. 2018. Property inference attacks on fully
 connected neural networks using permutation invariant representations. In Proceedings of the 2018 ACM SIGSAC
 Conference on Computer and Communications Security. ACM, 619–633.
 
