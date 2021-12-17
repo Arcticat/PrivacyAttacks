@@ -3,6 +3,23 @@
 ### Survey
 https://github.com/stratosphereips/awesome-ml-privacy-attacks
 
+* Emiliano De Cristofaro. 2020. An overview of privacy in machine learning. arXiv preprint arXiv:2005.08679 (2020).
+
+* Malhar S Jere, Tyler Farnan, and Farinaz Koushanfar. 2020. A taxonomy of attacks on federated learning. IEEE
+Security & Privacy 19, 2 (2020), 20–28.
+
+* Bo Liu, Ming Ding, Sina Shaham, Wenny Rahayu, Farhad Farokhi, and Zihuai Lin. 2021. When machine learning
+meets privacy: A survey and outlook. ACM Computing Surveys (CSUR) 54, 2 (2021), 1–36.
+
+* Fatemehsadat Mireshghallah, Mohammadkazem Taram, Praneeth Vepakomma, Abhishek Singh, Ramesh Raskar, and
+Hadi Esmaeilzadeh. 2020. Privacy in deep learning: A survey. arXiv preprint arXiv:2004.12254 (2020).
+
+* Maria Rigaki and Sebastian Garcia. 2020. A survey of privacy attacks in machine learning. arXiv preprint
+arXiv:2007.07646 (2020).
+
+* Xuefei Yin, Yanming Zhu, and Jiankun Hu. 2021. A Comprehensive Survey of Privacy-preserving Federated Learning:
+A Taxonomy, Review, and Future Directions. ACM Computing Surveys (CSUR) 54, 6 (2021), 1–36.
+
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------| 
 
@@ -12,6 +29,14 @@ https://github.com/stratosphereips/awesome-ml-privacy-attacks
 
 * Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov. 2017. Membership inference attacks against
 machine learning models. In 2017 IEEE Symposium on Security and Privacy (S&P). IEEE, 3–18.
+
+
+### MIA on location data
+* Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro. 2018. Knock knock, who’s there? Membership
+inference on aggregate location data. In Network and Distributed Systems Security Symposium 2018.
+
+* Apostolos Pyrgelis, Carmela Troncoso, and Emiliano De Cristofaro. 2020. Measuring membership privacy on
+aggregate location time-series. Proceedings of the ACM on Measurement and Analysis of Computing Systems 4 (2020),
 
 ### Membership Inference Attack Papers 2021
 https://github.com/HongshengHu/membership-inference-machine-learning-literature/blob/main/README.md
