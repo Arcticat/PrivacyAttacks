@@ -2,6 +2,8 @@
 
 ### Survey
 https://github.com/stratosphereips/awesome-ml-privacy-attacks
+|
+https://encase.socialcomputing.eu/wp-content/uploads/2019/06/cv-cops_compressed.pdf
 
 * Emiliano De Cristofaro. 2020. An overview of privacy in machine learning. arXiv preprint arXiv:2005.08679 (2020).
 
@@ -79,6 +81,15 @@ Communications Security. ACM, 1322–1333.
 * Karan Ganju, Qi Wang, Wei Yang, Carl A Gunter, and Nikita Borisov. 2018. Property inference attacks on fully
 connected neural networks using permutation invariant representations. In Proceedings of the 2018 ACM SIGSAC
 Conference on Computer and Communications Security. ACM, 619–633.
+
+* Property Inference Attacks Against GANs
+Junhao Zhou, Yufei Chen, Chao Shen, Yang Zhang
+
+
+###### In this talk, Emiliano De Cristofaro will mainly talk about privacy leakage from machine learning models. First, he will introduce “membership inference” attacks: given a data point, an adversary attempts to determine whether or not that was used to train the model. In particular, Emiliano will focus on generative models, such as DCGAN, BEGAN, and VAE. He will show that the inferring membership in this context is more challenging than on discriminative ones, where the attacker can use the confidence the model places on an input belonging to a label to perform the attack. He will then turn to collaborative/federated learning models: these allow multiple participants, each with his own training dataset, to build a joint model by training local models and periodically exchanging model parameters or gradient updates. Their work demonstrates that these updates leak unintended information about the participants’ training data and leave the door open to membership inference attacks. Finally, Emiliano will formalize and present “property inference” attacks against collaborative/federated learning, showing that an adversary can infer properties that hold only for a subset of the training data and are independent of the properties that the joint model aims to capture. 
+
+20min presentation
+5min live Q&A with moderator
 
 
 
