@@ -22,6 +22,11 @@ A Taxonomy, Review, and Future Directions. ACM Computing Surveys (CSUR) 54, 6 (2
 
 ## Generative models
 
+* Ian J Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C Courville,
+and Yoshua Bengio. 2014. Generative Adversarial Nets. In Proceedings of the 28th International Conference on Neural
+Information Processing Systems.
+
+* Diederik P Kingma and Max Welling. 2013. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114 (2013).
 
 
 
@@ -29,6 +34,10 @@ A Taxonomy, Review, and Future Directions. ACM Computing Surveys (CSUR) 54, 6 (2
 
 * Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov. 2017. Membership inference attacks against
 machine learning models. In 2017 IEEE Symposium on Security and Privacy (S&P). IEEE, 3–18.
+
+* Milad Nasr, Reza Shokri, and Amir Houmansadr. 2019. Comprehensive privacy analysis of deep learning: Passive and
+active white-box inference attacks against centralized and federated learning. In 2019 IEEE symposium on security
+and privacy (S&P). IEEE, 739–753.
 
 
 ### MIA on location data
